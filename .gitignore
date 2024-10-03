@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# VS Code
+.vscode
+
+# Windows
+.desktop
+*.ini
+
+# Mac
+.DS_Store
